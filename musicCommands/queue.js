@@ -10,8 +10,8 @@ module.exports = {
       const embed = new EmbedBuilder()
       .setAuthor({
           name: 'Attention',
-          iconURL: 'https://cdn.discordapp.com/attachments/1223544847047065662/1224631171766292500/9596-wrong.gif?ex=661e31a7&is=660bbca7&hm=0176645a3d582d6b93c8447a02cd7b1e7923b316212336fdc0b23b96b5e8ab4b&',
-          url: 'https://discord.gg/FUEHs7RCqz'
+          iconURL: 'https://cdn.discordapp.com/attachments/1236617830846300231/1236664209933336656/Black_White_Modern_Concert_Music_Banner_Landscape_20240505_140022_0000.png?ex=6638d4cb&is=6637834b&hm=481c2f4a138bb4e08812ad97c5adfdff2dc340e52173740297beb33db7121016&',
+          url: 'https://discord.com/invite/NKZY47ZKj8'
         })
       .setDescription('**The Queue is currently empty consider adding songs.**')
       .setColor('#ff0000');
@@ -22,8 +22,8 @@ module.exports = {
       .setColor('#2b71ec')
      .setAuthor({
           name: 'Queue',
-          iconURL: 'https://cdn.discordapp.com/attachments/1175488636033175602/1175488721001398333/queue.png?ex=656b6a2e&is=6558f52e&hm=7573613cbb8dcac83ba5d5fc55ca607cf535dd117b4492b1c918d619aa6fd7ad&',
-          url: 'https://discord.gg/FUEHs7RCqz'
+          iconURL: 'https://cdn.discordapp.com/attachments/1236617830846300231/1236664209933336656/Black_White_Modern_Concert_Music_Banner_Landscape_20240505_140022_0000.png?ex=6638d4cb&is=6637834b&hm=481c2f4a138bb4e08812ad97c5adfdff2dc340e52173740297beb33db7121016&',
+          url: 'https://discord.com/invite/NKZY47ZKj8'
         })
       .setDescription(queue.map((song, index) => `**${index + 1}.** ${song.searchQuery}`).join('\n'));
 
