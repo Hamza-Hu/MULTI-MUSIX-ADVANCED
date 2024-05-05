@@ -39,8 +39,8 @@ module.exports = {
         .setColor('#FF0000')
             .setAuthor({
           name: '24/7 DeActivated!',
-          iconURL: 'https://cdn.discordapp.com/attachments/1175488636033175602/1175524927164645446/cross.png?ex=656b8be6&is=655916e6&hm=ff3bbc16f174e02e38a61c8ec86d2e6c44a2b8785147dcfe111bf06054cb05fe&',
-          url: 'https://discord.gg/FUEHs7RCqz'
+          iconURL: 'https://cdn.discordapp.com/attachments/1236617830846300231/1236664209933336656/Black_White_Modern_Concert_Music_Banner_Landscape_20240505_140022_0000.png?ex=6638d4cb&is=6637834b&hm=481c2f4a138bb4e08812ad97c5adfdff2dc340e52173740297beb33db7121016&',
+          url: 'https://discord.com/invite/NKZY47ZKj8'
         })
             .setDescription('**Increase Cooldown to stay 24/7 for a long time!**');
 
@@ -64,8 +64,8 @@ module.exports = {
               .setColor('#FF0000')
             .setAuthor({
           name: '24/7 DeActivated!',
-          iconURL: 'https://cdn.discordapp.com/attachments/1175488636033175602/1175524927164645446/cross.png?ex=656b8be6&is=655916e6&hm=ff3bbc16f174e02e38a61c8ec86d2e6c44a2b8785147dcfe111bf06054cb05fe&',
-          url: 'https://discord.gg/FUEHs7RCqz'
+          iconURL: 'https://cdn.discordapp.com/attachments/1236617830846300231/1236664209933336656/Black_White_Modern_Concert_Music_Banner_Landscape_20240505_140022_0000.png?ex=6638d4cb&is=6637834b&hm=481c2f4a138bb4e08812ad97c5adfdff2dc340e52173740297beb33db7121016&',
+          url: 'https://discord.com/invite/NKZY47ZKj8'
         })
             .setDescription('**Increase Cooldown to stay 24/7 for a long time!**');
 
@@ -78,8 +78,8 @@ module.exports = {
            .setColor('#2b71ec')
      .setAuthor({
           name: '24/7 Activated!',
-          iconURL: 'https://cdn.discordapp.com/attachments/1175488636033175602/1175524855140057209/check.png?ex=656b8bd5&is=655916d5&hm=75eb1b1f6731b0d6bdec686677d5a86f359f4a5acbbd58751d35ec26d852aaa6&',
-          url: 'https://discord.gg/FUEHs7RCqz'
+          iconURL: 'https://cdn.discordapp.com/attachments/1236617830846300231/1236664209933336656/Black_White_Modern_Concert_Music_Banner_Landscape_20240505_140022_0000.png?ex=6638d4cb&is=6637834b&hm=481c2f4a138bb4e08812ad97c5adfdff2dc340e52173740297beb33db7121016&',
+          url: 'https://discord.com/invite/NKZY47ZKj8'
         })
           .setDescription('**You need to deactivate 24/7 to play songs!**');
 
