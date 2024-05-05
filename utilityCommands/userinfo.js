@@ -14,7 +14,7 @@ module.exports = {
         .setAuthor({
         name: 'User Info!',
         iconURL: 'https://cdn.discordapp.com/attachments/1140841446228897932/1144684108174348318/giphy_1.gif', 
-        url: 'https://discord.gg/FUEHs7RCqz'
+        url: 'https://discord.com/invite/NKZY47ZKj8'
     })
         .setThumbnail(user.avatarURL({ format: 'png', dynamic: true, size: 1024 }))
         .setDescription(`**Username**:  ${user.username}\n**Discriminator**:  ${user.discriminator}\n**ID**:  ${user.id}\n**Joined Discord**:  ${user.createdAt.toUTCString()}`)
